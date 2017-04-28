@@ -3,7 +3,7 @@
   "short_name": "Push Demo",
   "icons": [
     {
-      "src": "/demo/push/non-data/images/icon-192x192.png",
+      "src": "/ics_logo_512x512.png",
       "sizes": "192x192"
     }
   ],
